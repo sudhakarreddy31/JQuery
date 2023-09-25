@@ -1,0 +1,37 @@
+#div1{
+    margin: auto;
+    text-align: center;
+    border: 3px gray dotted;
+    font-size: 30px;
+    background-color: yellowgreen;
+    height: 300px;
+    width: 300px;
+    position: relative;
+
+}
+
+#div2{
+
+    margin: auto;
+    text-align: center;
+    border: 3px rgb(3, 75, 90) dotted;
+    font-size: 30px;
+    background-color: rgb(171, 171, 43);
+    height: 300px;
+    width: 300px;
+    position: relative;
+    
+}
+
+#div3{
+
+    margin: auto;
+    text-align: center;
+    border: 3px rgb(134, 182, 192) dotted;
+    font-size: 30px;
+    background-color: rgb(18, 85, 15);
+    height: 300px;
+    width: 300px;
+    position: relative;
+    
+}
